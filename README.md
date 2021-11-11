@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @GitZombie1
+- 👀 I’m interested in other people amazing work
+- 🌱 I’m currently learning how to use python
+- 💞️ I’m looking to collaborate on nothing right now
+- 📫 How to reach me: 
+- Send me a email @ christianmlmt@gmail.com
