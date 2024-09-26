@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning how to use python
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me: 
-- Send me a email @ christianmlmt@gmail.com
+- Send me a email christianmlmt@gmail.com
